@@ -1,0 +1,10 @@
+h1 {
+    font-family: arial;
+    font-size: 30px;
+    color:blue;
+    text-shadow: 2px 2px 2px black;
+}
+
+#Banner {
+    width: 100%;
+}
