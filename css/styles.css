@@ -24,9 +24,8 @@ h1 {
 }
 
 .flexbox-container {
-    background: #5dd6fa;
+    background: #f9fbfc;
     padding: 20px;
-
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -85,6 +84,20 @@ img {
     margin-left: 2rem;
     margin-top: 2rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
