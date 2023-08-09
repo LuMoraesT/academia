@@ -1,9 +1,27 @@
+body, h1, h2, h4, h5 p {
+    margin: 0px;
+    padding: 0px;
+}
 
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #222222;
+}
 
+.topo-bg {
+    background: #030303;
+}
 
+.topo h1, span {
+    color: white;
+    margin: 20px 150px 20px 150px;
+}
 
-
-
+.topo {
+    display: flex;
+    justify-content: space-between;
+    
+}
 
 
 
